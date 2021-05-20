@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigateCar</string>
+    <string name="description">This app shows how to navigate by car from your current location to Montclair State University. </string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoieWFuLWluc3BpcmUiLCJhIjoiY2tvd3BoaXZ1MDhlejJ4bzd5ODN5NWpibSJ9.v3vTCVJwUjVpM11TSvcmLw</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="destination">destination</string>
+</resources>
